@@ -1,16 +1,11 @@
 <?php
 
-return [
-	'all' => [
-		'index',
-	],
-	'authorize' => [
-		//
-	],
-	'guest' => [
-		//
-	],
-	'admin' => [
-		//
-	],
+return ['all'       => ['index',
+],
+        'authorize' => [//
+        ],
+        'guest'     => [//
+        ],
+        'admin'     => [//
+        ],
 ];

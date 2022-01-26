@@ -1,8 +1,7 @@
 <?php
 
-return [
-	'host' => '',
-	'name' => '',
-	'user' => '',
-	'password' => '',
+return ['host'     => '',
+        'name'     => '',
+        'user'     => '',
+        'password' => '',
 ];
